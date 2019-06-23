@@ -1,0 +1,151 @@
+<resources>
+    <string name="app_name">Play Movie</string>
+    <string name="movie_name">Film</string>
+    <string name="tv_show_name">Acara TV</string>
+    <string name="setting_name">Pengaturan</string>
+    <string name="favorite_name">Favorit</string>
+    <string name="delete_name">Hapus</string>
+    <string name="search_name">Cari disini</string>
+    <string name="search_movie_name">Cari Film</string>
+    <string name="search_tv_name">Cari Acara TV</string>
+    <string name="en_setting_name">English</string>
+    <string name="id_setting_name">Bahasa Indonesia</string>
+    <string name="lang_name">Bahasa</string>
+    <string name="reminder_name">Pengingat</string>
+    <string name="reminder_daily_name">Pengingat Harian</string>
+    <string name="reminder_release_name">Pengingat Pengeluaran</string>
+
+    <!-- DUMMY CONTENT -->
+    <string name="img_desc_dummy">Contoh Deskripsi Gambar</string>
+    <string name="msg_language_dummy">Berhasil mengganti bahasa</string>
+    <string name="msg_subtitle_not_found">Deskripsi tidak tersedia.</string>
+    <string name="msg_insert_success">Berhasil menambahkan favorit</string>
+    <string name="msg_insert_failed">Gagal menambahkan favorit</string>
+    <string name="msg_delete_success">Berhasil menghapus favorit</string>
+    <string name="msg_not_found">Belum ada data favorit.</string>
+    <string name="msg_delete">Apakah anda ingin menghapus ini?</string>
+
+    <!-- API KEY -->
+    <string name="api_key">b6f810a237345f0a4be9c241835b2a9b</string>
+
+    <string name="action_yes">Ya</string>
+    <string name="action_no">Tidak</string>
+    <string name="appwidget_text">Play Movie</string>
+    <string name="add_widget">Add widget</string>
+    <!--
+    DUMMY
+    <string-array name="title_movie">
+        <item>A Star Is Born</item>
+        <item>Aquaman</item>
+        <item>Avengers: Infinity War</item>
+        <item>Bird Box</item>
+        <item>Bohemian Rhapsody</item>
+        <item>Bumblebee</item>
+        <item>Creed II</item>
+        <item>Deadpool 2</item>
+        <item>How to Train Your Dragon: The Hidden World</item>
+        <item>Glass</item>
+        <item>Hunter Killer</item>
+        <item>Mortal Engines</item>
+    </string-array>
+    <string-array name="title_tv_show">
+        <item>Arrow</item>
+        <item>Doom Patrol</item>
+        <item>Dragon Ball</item>
+        <item>Fairy Tail</item>
+        <item>Family Guy</item>
+        <item>The Flash</item>
+        <item>Got II</item>
+        <item>Gotham</item>
+        <item>Greys Anatomi</item>
+        <item>Hanna</item>
+        <item>Iron Fist</item>
+        <item>Naruto Shippuden</item>
+    </string-array>
+    <string-array name="release_date_movie">
+        <item>Oktober 3 2018</item>
+        <item>Desember 7 2018</item>
+        <item>April 25 2018</item>
+        <item>Desember 13 2018</item>
+        <item>Oktober 24 2018</item>
+        <item>Desember 15 2018</item>
+        <item>November 21 2018</item>
+        <item>Mei 10 2018</item>
+        <item>Januari 3 2019</item>
+        <item>Januari 16 2019</item>
+        <item>Oktober 19 2018</item>
+        <item>November 27 2018</item>
+    </string-array>
+    <string-array name="release_date_tv_show">
+        <item>Oktober 10 2012</item>
+        <item>Februari 15 2019</item>
+        <item>Februari 26 1986</item>
+        <item>Oktober 12 2009</item>
+        <item>Januari 31 1999</item>
+        <item>Oktober 7 2014</item>
+        <item>Juli 26 2009</item>
+        <item>September 22 2014</item>
+        <item>Maret 27 2005</item>
+        <item>Maret 28 2019</item>
+        <item>Maret 17 2017</item>
+        <item>Februari 15 2007</item>
+    </string-array>
+    <string-array name="overview_movie">
+        <item>"Musisi kawakan Jackson Maine menemukan - dan jatuh cinta dengan - artis yang sedang berjuang Ally. Dia baru saja menyerah pada mimpinya untuk menjadi besar sebagai penyanyi - sampai Jack membujuknya menjadi sorotan. Tetapi bahkan ketika karir Allys lepas landas, sisi pribadi dari hubungan mereka hancur, seperti Jack berjuang pertempuran yang sedang berlangsung dengan setan internal sendiri."</item>
+        <item>"Dulunya merupakan rumah bagi peradaban paling maju di Bumi, Atlantis sekarang merupakan kerajaan bawah laut yang diperintah oleh Raja Orm yang haus kekuasaan. Dengan pasukan yang sangat besar, Orm berencana untuk menaklukkan orang-orang samudera yang tersisa dan kemudian ke permukaan dunia. Yang menghalangi jalannya adalah Arthur Curry, Orms setengah manusia, setengah saudara Atlantis dan pewaris sejati takhta."</item>
+        <item>"Ketika Avengers dan sekutu mereka terus melindungi dunia dari ancaman yang terlalu besar untuk ditangani oleh satu pahlawan, bahaya baru telah muncul dari bayang-bayang kosmik: Thanos. Seorang lalim penghinaan intergalaksi, tujuannya adalah untuk mengumpulkan semua enam Batu Infinity, artefak kekuatan tak terbayangkan, dan menggunakannya untuk menimbulkan keinginannya yang terpelintir pada semua kenyataan. Segala yang Avengers telah perjuangkan telah mengarah ke saat ini - nasib Bumi dan keberadaannya sendiri tidak pernah lebih pasti."</item>
+        <item>"Lima tahun setelah kehadiran tak terlihat yang tidak menyenangkan membuat sebagian besar masyarakat bunuh diri, seorang yang selamat dan dua anaknya melakukan upaya putus asa untuk mencapai keselamatan."</item>
+        <item>"Penyanyi Freddie Mercury, gitaris Brian May, drummer Roger Taylor dan gitaris John Deacon mengambil dunia musik dengan badai ketika mereka membentuk band rock n roll Queen pada tahun 1970. Lagu-lagu hit menjadi klasik instan. Ketika gaya hidup Mercurys yang semakin liar mulai lepas kendali, Queen segera menghadapi tantangan terbesarnya - menemukan cara untuk menjaga band tetap bersama di tengah kesuksesan dan kelebihan."</item>
+        <item>"Dalam pelarian pada tahun 1987, Bumblebee menemukan tempat perlindungan di tempat barang rongsokan di kota pantai kecil California. Charlie, di puncak usia 18 dan berusaha menemukan tempatnya di dunia, menemukan Bumblebee, bekas luka pertempuran dan patah. Ketika Charlie menghidupkannya, dia dengan cepat mengetahui bahwa ini bukan bug VW kuning biasa."</item>
+        <item>"Antara kewajiban pribadi dan pelatihan untuk pertarungan besar berikutnya melawan lawan yang memiliki ikatan dengan masa lalu keluarganya, Adonis Creed menghadapi tantangan hidupnya.."</item>
+        <item>"Deadpool tentara bayaran penyihir bertempur melawan Cable jahat dan kuat dan orang jahat lainnya untuk menyelamatkan kehidupan anak laki-laki."</item>
+        <item>"Ketika Hiccup memenuhi mimpinya untuk menciptakan utopia naga yang damai, penemuan Toothless 'dari pasangan yang tak teruji dan sukar ditangkap membuat Night Fury menjauh. Ketika bahaya meningkat di rumah dan pemerintahan Hiccup sebagai kepala desa diuji, baik naga dan pengendara harus membuat keputusan yang mustahil untuk menyelamatkan jenis mereka."</item>
+        <item>"Dalam serangkaian pertemuan yang meningkat, penjaga keamanan David Dunn menggunakan kemampuan supernaturalnya untuk melacak Kevin Wendell Crumb, seorang lelaki terganggu yang memiliki dua puluh empat kepribadian. Sementara itu, kehadiran bayangan Elia Price muncul sebagai seorang orkestra yang menyimpan rahasia penting bagi keduanya."</item>
+        <item>"Kapten Glass dari USS "Arkansas" menemukan bahwa kudeta detat sedang terjadi di Rusia, jadi ia dan krunya bergabung dengan kelompok elit yang bekerja di tanah untuk mencegah perang."</item>
+        <item>"Beribu-ribu tahun di masa depan, kota-kota di bumi menjelajah dunia dengan roda besar, saling melahap dalam perjuangan untuk sumber daya yang semakin berkurang. Di salah satu kota traksi besar ini, London tua, Tom Natsworthy mengalami perjumpaan tak terduga dengan seorang wanita muda misterius dari tanah terlantar yang akan mengubah jalan hidupnya selamanya."</item>
+    </string-array>
+    <string-array name="overview_tv_show">
+        <item>"Playboy miliarder manja, Oliver Queen, hilang dan diduga tewas ketika kapal pesiarnya hilang di laut. Dia kembali lima tahun kemudian seorang pria yang berubah, bertekad untuk membersihkan kota sebagai main hakim sendiri bersenjatakan busur."</item>
+        <item>"Anggota Patroli Doom masing-masing mengalami kecelakaan mengerikan yang memberi mereka kemampuan manusia super - tetapi juga membuat mereka terluka dan cacat. Trauma dan tertindas, tim menemukan tujuan melalui Ketua, yang menyatukan mereka untuk menyelidiki fenomena paling aneh yang ada - dan untuk melindungi Bumi dari apa yang mereka temukan."</item>
+        <item>"Dahulu kala di pegunungan, seorang master pertempuran yang dikenal sebagai Gohan menemukan seorang bocah aneh yang ia beri nama Goku. Gohan membesarkannya dan melatih Goku dalam seni bela diri sampai dia mati. Bocah muda dan sangat kuat itu sendirian, tetapi mudah dikelola. Kemudian suatu hari, Goku bertemu dengan seorang gadis remaja bernama Bulma, yang pencariannya untuk bola naga membawanya ke rumah Goku."</item>
+        <item>"Lucy adalah seorang gadis berusia 17 tahun, yang ingin menjadi penyihir penuh. Suatu hari ketika mengunjungi Kota Harujion, dia bertemu Natsu, seorang pemuda yang mudah sakit karena segala jenis transportasi. Tapi Natsu bukan sembarang anak biasa, dia adalah anggota dari salah satu serikat penyihir paling terkenal di dunia: Fairy Tail."</item>
+        <item>"Seri animasi Freakin 'Sweet yang sakit, terpelintir, tidak benar secara politis dan menampilkan petualangan keluarga Griffin yang disfungsional."</item>
+        <item>"Setelah akselerator partikel menyebabkan badai aneh, Penyelidik CSI Barry Allen disambar petir dan jatuh koma. Beberapa bulan kemudian dia terbangun dengan kekuatan kecepatan super, memberinya kemampuan untuk bergerak melalui Central City seperti malaikat penjaga yang tak terlihat."</item>
+        <item>"Menjelang Thanksgiving, 1971 seorang pria, mengenakan setelan bisnis, melompat dari belakang jet komersial dengan parasut dan dua ratus ribu dolar uang tebusan. Sekarang untuk pertama kalinya dalam sejarah FBI, tim detektif warga negara, menggunakan ilmu forensik modern, membantu mengungkap misteri D.B. Cooper."</item>
+        <item>"Ikuti kehidupan pribadi dan profesional sekelompok dokter di Rumah Sakit Gray Sloan Memorial di Seattle."</item>
+        <item>"Ketika Hiccup memenuhi mimpinya untuk menciptakan utopia naga yang damai, penemuan Toothless 'dari pasangan yang tak teruji dan sukar ditangkap membuat Night Fury menjauh. Ketika bahaya meningkat di rumah dan pemerintahan Hiccup sebagai kepala desa diuji, baik naga dan pengendara harus membuat keputusan yang mustahil untuk menyelamatkan jenis mereka."</item>
+        <item>"Drama yang menegangkan dan menjadi dewasa ini mengikuti perjalanan seorang gadis muda yang luar biasa ketika ia menghindari pengejaran tanpa henti dari seorang agen CIA yang tidak ada buku dan mencoba untuk menggali kebenaran di balik siapa dirinya. Berdasarkan film Joe Wright 2011."</item>
+        <item>"Danny Rand muncul kembali 15 tahun setelah dianggap mati. Sekarang, dengan kekuatan Iron Fist, ia berusaha untuk merebut kembali masa lalunya dan memenuhi takdirnya."</item>
+        <item>"Naruto Shippuuden adalah kelanjutan dari serial TV animasi asli Naruto. Kisah ini berkisah tentang Uzumaki Naruto yang lebih tua dan sedikit lebih matang dan upayanya untuk menyelamatkan temannya Uchiha Sasuke dari cengkeraman Shinobi seperti ular, Orochimaru."</item>
+    </string-array>
+
+    <array name="cover_movie">
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_birdbox</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_creed</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_dragon</item>
+        <item>@drawable/poster_glass</item>
+        <item>@drawable/poster_hunterkiller</item>
+        <item>@drawable/poster_mortalengine</item>
+    </array>
+    <array name="cover_tv_show">
+        <item>@drawable/poster_arrow</item>
+        <item>@drawable/poster_doom_patrol</item>
+        <item>@drawable/poster_dragon_ball</item>
+        <item>@drawable/poster_fairytail</item>
+        <item>@drawable/poster_family_guy</item>
+        <item>@drawable/poster_flash</item>
+        <item>@drawable/poster_god</item>
+        <item>@drawable/poster_gotham</item>
+        <item>@drawable/poster_grey_anatomy</item>
+        <item>@drawable/poster_hanna</item>
+        <item>@drawable/poster_iron_fist</item>
+        <item>@drawable/poster_naruto_shipudden</item>
+    </array>
+    -->
+</resources>
